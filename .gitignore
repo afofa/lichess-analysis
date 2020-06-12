@@ -1,0 +1,5 @@
+# ignore following folders
+data/
+__pycache__/
+venv/
+.vscode/
